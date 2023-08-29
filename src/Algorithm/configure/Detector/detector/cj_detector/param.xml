@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<opencv_storage>
+    <!--image process params-->
+    <binary_thres> 160 </binary_thres>
+    <enemy_color> 1 </enemy_color>
+    <!--light params-->
+    <min_ratio> 0.1 </min_ratio>
+    <max_ratio> 0.4 </max_ratio>
+    <max_angle> 40.0 </max_angle>
+    <min_light_ratio> 0.7 </min_light_ratio>
+    <!--armor params-->
+    <min_small_center_distance> 0.8 </min_small_center_distance>
+    <max_small_center_distance> 3.2 </max_small_center_distance>
+    <min_large_center_distance> 3.2 </min_large_center_distance>
+    <max_large_center_distance> 5.0 </max_large_center_distance>
+    <armor_max_angle> 35.0 </armor_max_angle>
+</opencv_storage>

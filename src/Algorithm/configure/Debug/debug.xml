@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<opencv_storage>
+    <contest> 0 </contest>  <!--比赛模式-->
+    <show_armor> 1 </show_armor> <!--显示图像-->
+    <show_bin> 1 </show_bin>  <!--显示二值化以后的图像-->
+    <show_detect_cost> 0 </show_detect_cost> <!--识别一帧耗时-->
+    <show_rviz> 1 </show_rviz> <!--整车状态和瞄准点显示在rviz-->
+    <show_total_cost> 1 </show_total_cost> <!--显示程序总耗时（两次有效控制指令之间的间隔）-->
+</opencv_storage>
+ 
+
+

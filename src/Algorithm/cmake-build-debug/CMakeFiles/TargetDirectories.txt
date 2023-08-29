@@ -1,0 +1,10 @@
+/home/wang/IRobot/RMOS/src/Algorithm/cmake-build-debug/CMakeFiles/uninstall.dir
+/home/wang/IRobot/RMOS/src/Algorithm/cmake-build-debug/CMakeFiles/algorithm_uninstall.dir
+/home/wang/IRobot/RMOS/src/Algorithm/cmake-build-debug/CMakeFiles/algorithm.dir
+/home/wang/IRobot/RMOS/src/Algorithm/cmake-build-debug/CMakeFiles/test.dir
+/home/wang/IRobot/RMOS/src/Algorithm/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/wang/IRobot/RMOS/src/Algorithm/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wang/IRobot/RMOS/src/Algorithm/cmake-build-debug/CMakeFiles/list_install_components.dir
+/home/wang/IRobot/RMOS/src/Algorithm/cmake-build-debug/CMakeFiles/install.dir
+/home/wang/IRobot/RMOS/src/Algorithm/cmake-build-debug/CMakeFiles/install/local.dir
+/home/wang/IRobot/RMOS/src/Algorithm/cmake-build-debug/CMakeFiles/install/strip.dir

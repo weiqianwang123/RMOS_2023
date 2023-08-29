@@ -1,0 +1,4 @@
+geometry_msgs/Point aim_point
+geometry_msgs/Point point_1
+geometry_msgs/Point point_2
+geometry_msgs/Point point_3

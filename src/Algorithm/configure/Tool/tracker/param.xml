@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<opencv_storage>
+    <!--image process params-->
+    <max_match_distance> 0.5 </max_match_distance>
+    <max_match_yaw_diff> 0.75 </max_match_yaw_diff>
+    <tracking_thres> 2 </tracking_thres>
+    <lost_thres> 20 </lost_thres>
+
+</opencv_storage>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<opencv_storage>
+    <width>1280</width>
+    <height>720</height>
+    <exposure>3000</exposure>
+    <rgain>19.8</rgain>
+    <bgain>19.8</bgain>
+    <ggain>10</ggain>
+    <gain>15</gain>
+    <fps>100</fps>
+
+</opencv_storage>

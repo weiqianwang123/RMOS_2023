@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<opencv_storage>
+    <level_one_first>0.949999988079071</level_one_first>
+    <level_three_first>0.94</level_three_first>
+    <level_three_second>0.8</level_three_second><!--0.8-->
+    <level_three_third>0.8</level_three_third><!--0.8-->
+    <level_two_first>0.949999988079071</level_two_first>
+    <level_two_second>0.949999988079071</level_two_second>
+    <k>0.0402</k>
+    <g>9.75</g>
+    <bullet_speed>30</bullet_speed>
+</opencv_storage>

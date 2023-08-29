@@ -1,0 +1,4 @@
+source;share/algorithm/local_setup.bash
+source;share/algorithm/local_setup.dsv
+source;share/algorithm/local_setup.sh
+source;share/algorithm/local_setup.zsh

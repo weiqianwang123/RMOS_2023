@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<opencv_storage>
+    <!--image process params-->
+    <blue_threshold> 70 </blue_threshold>
+    <red_threshold> 100 </red_threshold>
+    <blue_red_diff> 10 </blue_red_diff>
+    <red_blue_diff> 10 </red_blue_diff>
+    <enemy_color> 1 </enemy_color>
+    <!--light params-->
+    <angle_to_vertigal_max> 35.0 </angle_to_vertigal_max>
+    <height_width_min_ratio> 1.3 </height_width_min_ratio>
+    <size_area_min_ratio> 0.4 </size_area_min_ratio>
+    <!--armor params-->
+    <lights_angle_max_diff> 10.0 </lights_angle_max_diff>
+    <lights_length_max_ratio> 1.5 </lights_length_max_ratio>
+    <lights_Y_max_ratio> 1.5 </lights_Y_max_ratio>
+    <width_height_min_ratio> 1.1 </width_height_min_ratio>
+    <width_height_max_ratio> 6.5 </width_height_max_ratio>
+    <max_angle> 35.0 </max_angle>
+    <inside_thresh> 85.0 </inside_thresh>
+</opencv_storage>

@@ -1,0 +1,22 @@
+/home/wang/Applicants/clion-2023.2/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/wang/Applicants/clion-2023.2/bin/ninja/linux/x64/ninja -G Ninja -S /home/wang/IRobot/RMOS/src/Algorithm -B /home/wang/IRobot/RMOS/src/Algorithm/cmake-build-debug
+-- Found ament_cmake_auto: 0.9.12 (/opt/ros/foxy/share/ament_cmake_auto/cmake)
+-- Using PYTHON_EXECUTABLE: /usr/bin/python3
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Found rosidl_adapter: 1.3.1 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Found rmw_implementation_cmake: 1.0.4 (/opt/ros/foxy/share/rmw_implementation_cmake/cmake)
+-- Using RMW implementation 'rmw_fastrtps_cpp' as default
+-- Found ament_lint_auto: 0.9.8 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+-- Added test 'copyright' to check source files copyright and LICENSE
+-- Added test 'cppcheck' to perform static code analysis on C / C++ code
+-- Configured cppcheck include dirs: /home/wang/IRobot/RMOS/src/Algorithm/include
+-- Configured cppcheck exclude dirs and/or files: 
+-- Added test 'cpplint' to check C / C++ code against the Google style
+-- Configured cpplint exclude dirs and/or files: 
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'uncrustify' to check C / C++ code style
+-- Configured uncrustify additional arguments: 
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done (1.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/wang/IRobot/RMOS/src/Algorithm/cmake-build-debug
