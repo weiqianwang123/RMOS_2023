@@ -21,7 +21,7 @@ The primary objective of RMOS is to equip competition robots with the capability
 RMOS provides a foundation for robots to autonomously achieve precise targeting and engagement in the dynamic and challenging environment of the RoboMaster competition.
 
 
-## A test video for spinning target: 
+## Videos: 
 [video.MP4](pic%2Fvideo.MP4)
 
 ## Key points of RMOS(will be extended in the near future)
@@ -91,7 +91,6 @@ rotating objects.
 
 ![img_3.png](pic%2Fimg_3.png)
 
-ChatGPT
 
 The approaches mentioned above assumed a roll angle of 0 for the gimbal. However, to accommodate a broader range of scenarios on the field, such as when a hero needs to engage a rotating outpost from a side position, we have taken steps to enhance our system. Specifically, we read the quaternion values from the gimbal's gyroscope to determine the roll angle of the gimbal. We then add this roll angle to the firing line's calculation.
 
